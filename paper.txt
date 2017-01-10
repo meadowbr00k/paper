@@ -1,1 +1,3 @@
 ECHO is on.
+These are edits done directly on github
+etc, etc
